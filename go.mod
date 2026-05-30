@@ -41,3 +41,5 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20260128011058-8636f8732409 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
 )
+
+replace github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc => github.com/davecgh/go-spew v1.1.1
